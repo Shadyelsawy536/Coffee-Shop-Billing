@@ -40,7 +40,8 @@ Order Total: 60 LE
 Tax (10%): 6.00 LE
 Final Total: 66.00 LE
 
-📖 Learning Outcomes
+
+## 📖 Learning Outcomes
 This project demonstrates:
 
 - Using dictionaries for structured data storage.
