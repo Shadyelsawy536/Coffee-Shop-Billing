@@ -26,7 +26,6 @@ def calculate_total(price, quantity, tax_rate=0.1):
     order_cost = price * quantity
     tax = order_cost * tax_rate
     return order_cost, tax, order_cost + tax
-
 def print_receipt(drink_name, quantity, price, order_cost, tax, total):
     """Prints the receipt"""
     timestamp = datetime.datetime.now().strftime('%c')
